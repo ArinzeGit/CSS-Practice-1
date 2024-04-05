@@ -5,6 +5,7 @@ This project contains elements that respond to hover and clicks of the mouse and
 * Ensure you have a modern web browser installed
 * Open the index.html file in your web browser
 * The project should now be visible in your browser
+* You can also visit the live site URL [here](https://arinzegit.github.io/CSS-Practice-1/)
 ## Technologies used
 * HTML
 * CSS
